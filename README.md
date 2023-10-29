@@ -110,7 +110,7 @@ predict(w1,w2,test)
 
 ![MODEL](https://github.com/soundariyan18/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/main/Screenshot%202023-10-29%20134941.png)
 
-![MODEL]()
+![MODEL](https://github.com/soundariyan18/Experiment-3-Implementation-of-MLP-for-non-linear-separable-problem/blob/main/Screenshot%202023-10-29%20145934.png)
 
 
 #RESULT:
